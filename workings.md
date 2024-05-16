@@ -11,7 +11,7 @@ This simulation is designed to visualize the impact of a tank shell hitting a st
 - Interactive controls and user feedback.
 
 ## Implementation Details
-#### Initialization
+### Initialization
 - Pygame is initialized to create the simulation window.
 - Screen dimensions are set to 1200x800 pixels.
 - Material properties and initial conditions are defined, including shell velocity, mass, steel density, and thickness.
