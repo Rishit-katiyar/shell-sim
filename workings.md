@@ -3,7 +3,7 @@
 ## Overview
 This simulation is designed to visualize the impact of a tank shell hitting a steel plate at various angles of incidence. It provides a hyper-complex visualization suitable for military programs.
 
-## Features
+### Features
 - Visualization of tank shell impact on a steel plate.
 - Real-time calculation and display of penetration depth.
 - Simulation of shell deformation and fragmentation.
