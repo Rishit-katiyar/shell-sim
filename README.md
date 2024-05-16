@@ -1,4 +1,5 @@
 # Shell Simulation
+( Please note that this project is a weekend endeavor, and as such, may not include the usual level of detail or completeness found in more extensive projects )
 
 ## Overview
 Shell Simulation is a project aimed at simulating the impact dynamics and deformation of tank shells. The simulation provides insights into how tank shells behave upon impact with various surfaces and materials.
